@@ -1,6 +1,22 @@
 # Python para iniciantes
 
  Este tutorial foi criado para quem tem conhecimentos básicos de programação e está interessado em aprender Python pelo nível mais básico.
+ 
+ **Playlist:** []().
+
+**Episódios**
+
+- []()
+
+## Introdução
+
+Essas instruções fornecerão uma cópia do projeto para executar em sua máquina para desenvolvimento e teste.
+
+### Pré-requisitos
+
+O que você precisa para completar o tutorial:
+
+- Google Colaboratory
 
 ## Autor
 
