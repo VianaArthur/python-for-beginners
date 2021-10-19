@@ -12,6 +12,10 @@
 
 Essas instruções fornecerão uma cópia do projeto para executar em sua máquina para desenvolvimento e teste.
 
+### Colab Notebook
+
+Acesse o notebook completo no Google Colaboratory.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VianaArthur/python-for-beginners/blob/main/python-for-beginners.ipynb)
 
 ### Pré-requisitos
